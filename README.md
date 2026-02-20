@@ -59,15 +59,15 @@ Liber permet de bloquer des applications, d’analyser les habitudes d’utilisa
 ### Analyse du projet 
 - Un des enjeux principaux est que nous voulons faire une application iOS. Nous devons donc nécessairement utiliser un Mac pour développer l’application mobile. Pour résoudre ce problème, Maxime et Valeriy vont coder l’application avec leurs ordinateurs Mac pendant que Tan et Henrik s’occupe de l’autre partie du projet comme le serveur Backend. 
 ### Modélisation UML
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/6630b30c-edbb-4d92-84f6-7a4a653181dd" />
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/719ccdf4-6ebc-43b5-83ea-8878d458b7db" />
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/307ef7fd-4cbc-4cb4-a7a3-6a7d609740ba" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/6630b30c-edbb-4d92-84f6-7a4a653181dd" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/719ccdf4-6ebc-43b5-83ea-8878d458b7db" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/307ef7fd-4cbc-4cb4-a7a3-6a7d609740ba" />
 
 ### Vues
-<img height="505" alt="image" src="https://github.com/user-attachments/assets/d693eabc-1775-4abe-8d63-fb2868a8eb89" />
-<img height="505" alt="image" src="https://github.com/user-attachments/assets/3eda062b-efb7-401e-96e3-16405b97b01e" />
-<img height="505" alt="image" src="https://github.com/user-attachments/assets/529fd8fe-fd96-4457-8714-e3c26ce0c4b0" />
-<img height="505" alt="image" src="https://github.com/user-attachments/assets/cfc9ded5-6275-469e-bb4a-b6241c936d64" />
+<img height="425" alt="image" src="https://github.com/user-attachments/assets/d693eabc-1775-4abe-8d63-fb2868a8eb89" />
+<img height="425" alt="image" src="https://github.com/user-attachments/assets/3eda062b-efb7-401e-96e3-16405b97b01e" />
+<img height="425" alt="image" src="https://github.com/user-attachments/assets/529fd8fe-fd96-4457-8714-e3c26ce0c4b0" />
+<img height="425" alt="image" src="https://github.com/user-attachments/assets/cfc9ded5-6275-469e-bb4a-b6241c936d64" />
 
 ## Auteurs
 - **Maxime Bier** (@MaxLoveMoute) : Application mobile iOS
