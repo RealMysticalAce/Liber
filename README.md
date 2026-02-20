@@ -71,7 +71,7 @@ Liber permet de bloquer des applications, d’analyser les habitudes d’utilisa
 
 ## Auteurs
 - **Maxime Bier** (@MaxLoveMoute) : Application mobile iOS
-- **Henrik Hugues** (@Blygart) : Serveur Backend
+- **Henrik Hughes** (@Blygart) : Serveur Backend
 - **Tan Thanh Nguyen** (@jonathannguyen580-pixel) : Serveur Backend
 - **Valeriy Yauseichyk** (@RealMysticalAce) : Application mobile iOS
 
