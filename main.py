@@ -3,6 +3,8 @@ from models import UsageRecord
 from database import usage_collection
 from fastapi import HTTPException
 from bson import ObjectId, errors
+from fastapi import FastAPI
+from stats_service import compute_statistics
 
 app = FastAPI()
 
@@ -54,3 +56,8 @@ async def delete_usage(usage_id: str):
         return {"message": "Usage deleted successfully"}
     else:
         raise HTTPException(status_code=404, detail="Usage not found")
+    
+@app.get("/stats")
+async def get_stats():
+    stats = await compute_statistics()
+    return stats
